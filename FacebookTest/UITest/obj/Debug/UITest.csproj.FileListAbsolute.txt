@@ -1,0 +1,14 @@
+C:\Users\isagaidachna\Documents\FacebookTest\UITest\obj\Debug\UITest.csprojResolveAssemblyReference.cache
+C:\Users\isagaidachna\Documents\FacebookTest\UITest\bin\Debug\UITest.dll
+C:\Users\isagaidachna\Documents\FacebookTest\UITest\bin\Debug\UITest.pdb
+C:\Users\isagaidachna\Documents\FacebookTest\UITest\bin\Debug\FacebookTest.dll
+C:\Users\isagaidachna\Documents\FacebookTest\UITest\bin\Debug\nunit.framework.dll
+C:\Users\isagaidachna\Documents\FacebookTest\UITest\bin\Debug\WebDriver.dll
+C:\Users\isagaidachna\Documents\FacebookTest\UITest\bin\Debug\WebDriver.Support.dll
+C:\Users\isagaidachna\Documents\FacebookTest\UITest\bin\Debug\FacebookTest.pdb
+C:\Users\isagaidachna\Documents\FacebookTest\UITest\bin\Debug\nunit.framework.xml
+C:\Users\isagaidachna\Documents\FacebookTest\UITest\bin\Debug\WebDriver.xml
+C:\Users\isagaidachna\Documents\FacebookTest\UITest\bin\Debug\WebDriver.Support.xml
+C:\Users\isagaidachna\Documents\FacebookTest\UITest\obj\Debug\UITest.dll
+C:\Users\isagaidachna\Documents\FacebookTest\UITest\obj\Debug\UITest.pdb
+C:\Users\isagaidachna\Documents\FacebookTest\UITest\bin\Debug\UITest.dll.config

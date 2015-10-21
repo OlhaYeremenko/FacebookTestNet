@@ -1,0 +1,8 @@
+C:\Users\isagaidachna\Documents\FacebookTest\FacebookTest\bin\Debug\FacebookTest.dll
+C:\Users\isagaidachna\Documents\FacebookTest\FacebookTest\bin\Debug\FacebookTest.pdb
+C:\Users\isagaidachna\Documents\FacebookTest\FacebookTest\bin\Debug\WebDriver.dll
+C:\Users\isagaidachna\Documents\FacebookTest\FacebookTest\bin\Debug\WebDriver.Support.dll
+C:\Users\isagaidachna\Documents\FacebookTest\FacebookTest\bin\Debug\WebDriver.xml
+C:\Users\isagaidachna\Documents\FacebookTest\FacebookTest\bin\Debug\WebDriver.Support.xml
+C:\Users\isagaidachna\Documents\FacebookTest\FacebookTest\obj\Debug\FacebookTest.dll
+C:\Users\isagaidachna\Documents\FacebookTest\FacebookTest\obj\Debug\FacebookTest.pdb
